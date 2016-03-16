@@ -19,6 +19,8 @@ Building blocks:
 
 ## Installation
 
+Copy ´.env.example´ to ´.env´ and update it if necessary.
+
 Run the following command to install the dependencies:
 
 ```
